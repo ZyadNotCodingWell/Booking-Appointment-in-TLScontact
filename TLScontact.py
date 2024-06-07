@@ -36,7 +36,7 @@ LIST_CONTURY_CITY = [
         'BJS', 'TNA', 'XIY', 'SHA', 'HGH', 'NKG', 'CAN', 'SZX', 'FOC', 'CNG',
         'CKG', 'KMG', 'WUH', 'CSX', 'SHE'
     ], 'eg', ['CAI', 'ALY'], 'id', ['JKT'], 'lb', ['BEY'], 'th', ['BKK'], 'gb',
-    ['LON', 'EDI'], 'uz', ['TAS'], 'vn', ['HAN', 'SGN']
+    ['LON', 'EDI'], 'uz', ['TAS'], 'vn', ['HAN', 'SGN'], 'ma', ['maCAS2fr']
 ]  # source from https://fr.tlscontact.com/
 week = [
     'Monday', 'Tuesday', 'Wednesday', 'Thurday', 'Friday', 'Saturday', 'Sunday'
